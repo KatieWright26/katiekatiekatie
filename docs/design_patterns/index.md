@@ -1,5 +1,5 @@
 Facade Pattern
-##
+
 - This pattern serves to hide code complexity from the user
 - jQuery uses this pattern, for example `$(document).ready()` is internally powered by the following code:
 ```
